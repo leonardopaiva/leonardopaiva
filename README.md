@@ -34,8 +34,4 @@ Você pode me encontrar nas redes sociais:
 - [Portfólio https://leonardopaiva.com](https://leonardopaiva.com)
 - [LinkedIn https://www.linkedin.com/in/leonardo-paiva-87b07322/](https://www.linkedin.com/in/leonardo-paiva-87b07322/)
 
-## Acknowledgments
-
-Thank you for visiting my profile! I'm always open to new connections and collaborations.
-
 
