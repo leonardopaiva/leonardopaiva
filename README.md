@@ -25,18 +25,14 @@ Aqui estão alguns dos meus projetos favoritos:
 
 Check out my presentation video for [MVP desenvolvimento full stack básico]:
 
-<a href="https://www.youtube.com/watch?v=J7gtelhYxxo" target="_blank">
-    <img src="https://img.youtube.com/vi/J7gtelhYxxo/hqdefault.jpg" alt="Watch the video" width="150"  />
-</a>
-
 [![Watch the video](https://img.youtube.com/vi/J7gtelhYxxo/hqdefault.jpg)](https://www.youtube.com/watch?v=J7gtelhYxxo)
 
 ## How to Connect with Me
 
 Você pode me encontrar nas redes sociais:
 
-- [Portfólio https://leonardopaiva.com]([link-do-linkedin](https://leonardopaiva.com)
-- [LinkedIn https://www.linkedin.com/in/leonardo-paiva-87b07322/]([link-do-linkedin](https://www.linkedin.com/in/leonardo-paiva-87b07322/))
+- [Portfólio https://leonardopaiva.com](https://leonardopaiva.com)
+- [LinkedIn https://www.linkedin.com/in/leonardo-paiva-87b07322/](https://www.linkedin.com/in/leonardo-paiva-87b07322/)
 
 ## Acknowledgments
 
