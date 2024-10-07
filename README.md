@@ -24,6 +24,7 @@ Aqui estão alguns dos meus projetos favoritos:
 ## Interesting Videos
 
 [MVP - Puc Rio - Desenvolvimento Full stack básico https://www.youtube.com/watch?v=J7gtelhYxxo](https://especiais.g1.globo.com/educacao/guia-de-carreiras/teste-vocacional/assets/logo.png)(https://www.youtube.com/watch?v=J7gtelhYxxo)
+[![Watch the video](https://img.youtube.com/vi/J7gtelhYxxo/hqdefault.jpg)](https://www.youtube.com/watch?v=J7gtelhYxxo)
 
 ## How to Connect with Me
 
