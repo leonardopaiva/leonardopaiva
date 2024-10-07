@@ -23,6 +23,12 @@ Aqui estão alguns dos meus projetos favoritos:
 
 ## Interesting Videos
 
+Check out my presentation video for [MVP desenvolvimento full stack básico]:
+
+<a href="https://www.youtube.com/watch?v=J7gtelhYxxo" target="_blank">
+    <img src="https://img.youtube.com/vi/J7gtelhYxxo/hqdefault.jpg" alt="Watch the video" width="150"  />
+</a>
+
 [![Watch the video](https://img.youtube.com/vi/J7gtelhYxxo/hqdefault.jpg)](https://www.youtube.com/watch?v=J7gtelhYxxo)
 
 ## How to Connect with Me
