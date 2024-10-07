@@ -6,7 +6,7 @@ Welcome, I'm a front-end web developer, studying to also be full-stack
 
 ## About me
 
-I have a degree in Internet Systems and I am currently in postgraduate full-stack development at Puc-rio University. [https://especializacao.ccec.puc-rio.br/especializacao/desenvolvimento-full-stack](https://especializacao.ccec.puc-rio.br/especializacao/desenvolvimento-full-stack). I have good experience with Angular and currently, I'm focused on learning more about some front-end and back-end technologies, such as React and Node.
+I have a degree in Internet Systems and I am currently in postgraduate full-stack development at Puc-rio University. [https://especializacao.ccec.puc-rio.br/especializacao/desenvolvimento-full-stack](https://especializacao.ccec.puc-rio.br/especializacao/desenvolvimento-full-stack){target="_blank"}. I have good experience with Angular and currently, I'm focused on learning more about some front-end and back-end technologies, such as React and Node.
 
 ### Skills
 
