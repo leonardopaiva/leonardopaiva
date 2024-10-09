@@ -31,6 +31,7 @@ Check out my presentation video for [MVP desenvolvimento full stack básico]:
 
 Você pode me encontrar nas redes sociais:
 
+- E-mail: [leonardopaiva.portfolio@gmail.com]<a href="mailto:leonardopaiva.portfolio@gmail.com?subject=Contact&body=Hello">Enviar Email</a>
 - [Portfólio https://leonardopaiva.com](https://leonardopaiva.com)
 - [LinkedIn https://www.linkedin.com/in/leonardo-paiva-87b07322/](https://www.linkedin.com/in/leonardo-paiva-87b07322/)
 
